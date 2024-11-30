@@ -1,0 +1,17 @@
+15
+add 1
+add 5
+contains 1
+contains 5
+contains 4
+print
+add 4
+print
+contains 1
+contains 4
+contains 5
+remove 1
+print
+remove 5
+print
+

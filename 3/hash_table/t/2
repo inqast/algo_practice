@@ -1,0 +1,25 @@
+24
+put 1 foo
+put 4 bar
+print
+put 2 baz
+print
+put 3 quux
+put 1 new
+put 5 corge
+print
+put 8 extra
+put A collide
+put B collide
+put A replace
+print
+get 5
+get 4
+get 9
+get 3
+get 2
+get 1
+get A
+get B
+get 8
+get n

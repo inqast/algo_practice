@@ -1,0 +1,8 @@
+7
+put 1 foo
+put 3 bar
+put 1 baz
+get 3
+print
+get 2
+get 1

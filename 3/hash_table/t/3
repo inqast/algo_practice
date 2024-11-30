@@ -1,0 +1,4 @@
+24
+put 1 foo
+put 5 bar
+print
